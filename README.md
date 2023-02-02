@@ -40,9 +40,5 @@
 <strong>Design</strong>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
-
-
-
+---
 [![](https://visitcount.itsvg.in/api?id=christopherkochaneck&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
