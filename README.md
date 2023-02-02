@@ -1,6 +1,6 @@
 ## Hey, I am Chris.
 
-## About Me:
+## About Me
 
 🎓 I’m an Apprentice at a Software Company in Germany.<br>
 👨‍💻 Self-taught frontend developer based in Germany.<br>
