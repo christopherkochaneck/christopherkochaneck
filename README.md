@@ -4,8 +4,8 @@
 
 🎓 I’m an Apprentice at a Software Company in Germany.<br>
 👨‍💻 Self-taught frontend developer based in Germany.<br>
-📚 I’m currently teaching myself Frontend Development and trying to improve my Skills day by day.<br>
-📚 I'm also trying to learn more about Backend Development to further expand my knowledge.<br>
+📚 Currently teaching myself frontend development and trying to improve my skills day by day.<br>
+📚 Trying to learn more about Backend Development to further expand my knowledge.<br>
 
 ## 💻 My Skills
 
