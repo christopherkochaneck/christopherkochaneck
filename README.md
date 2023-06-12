@@ -3,7 +3,7 @@
 ## About Me
 
 :keyboard: I’m a Software Developer at a Software Company in Germany.<br>
-:man_technologist: Focused on frontend development expanding knowledge day by day.<br>
+:man_technologist: Focused on frontend development and expanding my knowledge day by day.<br>
 :chart_with_upwards_trend: Trying to learn more about Backend Development to become more versatile.<br>
 
 ## :computer: My Skills
